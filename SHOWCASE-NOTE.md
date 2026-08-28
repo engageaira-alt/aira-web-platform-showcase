@@ -1,0 +1,1 @@
+This public repository contains only sanitized, public-facing AIRA website presentation code. Production credentials, infrastructure details, private APIs, server configuration, databases, logs, private keys, tokens, and internal deployment data are intentionally excluded.
