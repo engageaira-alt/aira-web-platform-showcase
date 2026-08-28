@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+<title id="title">AIRA Systems gradient wallpaper</title><desc id="desc">High-resolution midnight blue, teal and purple AIRA Systems branded wallpaper.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#14062a"/><stop offset=".34" stop-color="#071641"/><stop offset=".72" stop-color="#073a60"/><stop offset="1" stop-color="#0b7584"/></linearGradient>
+  <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7b2fa0" stop-opacity=".72"/><stop offset="1" stop-color="#4e52cc" stop-opacity="0"/></linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2ff0e7" stop-opacity=".65"/><stop offset="1" stop-color="#0f739b" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="2560" height="1440" fill="url(#bg)"/>
+<path d="M-140 1060 C400 720 810 850 1190 1130 C1440 1310 1790 1350 2100 1250 C1700 1460 1020 1510 420 1350 C160 1280 -40 1190 -140 1060Z" fill="url(#purple)"/>
+<path d="M1480 -120 C1800 230 2140 430 2700 610 L2700 -100 Z" fill="url(#teal)"/>
+<path d="M1700 220 L2540 530 L2140 980 L1480 840 Z" fill="#145980" opacity=".28"/>
+<path d="M0 930 C560 730 940 890 1340 1130" fill="none" stroke="#c06be4" stroke-width="3" opacity=".65"/>
+<path d="M1690 0 C2040 250 2240 350 2560 470" fill="none" stroke="#66eee5" stroke-width="3" opacity=".72"/>
+<g transform="translate(930 300)" text-anchor="middle">
+  <g transform="translate(350 0)" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0 L-190 315 L0 420 L190 315 Z"/>
+    <circle cx="0" cy="0" r="34" fill="#fff" stroke="none"/><circle cx="-190" cy="315" r="34" fill="#fff" stroke="none"/><circle cx="190" cy="315" r="34" fill="#fff" stroke="none"/>
+    <circle cx="0" cy="122" r="36" fill="#fff" stroke="none"/><path d="M-80 205 Q-55 174 -18 174 H18 Q55 174 80 205 L65 350 L0 390 L-65 350 Z" fill="#fff" stroke="none"/>
+  </g>
+  <text x="350" y="620" fill="#fff" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="190" font-weight="900" letter-spacing="8">AIRA</text>
+  <text x="350" y="748" fill="#b7b2b6" font-family="Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="500" letter-spacing="33">SYSTEMS</text>
+  <text x="350" y="845" fill="#fff" font-family="Segoe Script, Brush Script MT, cursive" font-size="62" font-style="italic">Intelligence You Can Trust.</text>
+</g>
+</svg>
