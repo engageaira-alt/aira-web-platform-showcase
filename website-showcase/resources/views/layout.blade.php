@@ -25,7 +25,7 @@
         <nav aria-label="Hoofdnavigatie" class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="h-[76px] flex items-center justify-between gap-5">
                 <a href="/" class="flex items-center gap-3 shrink-0" aria-label="AIRA Systems home"><span class="leading-tight"><span class="block text-lg md:text-xl font-bold tracking-[0.08em]">AIRA</span><span class="hidden sm:block text-[10px] uppercase tracking-[0.18em] text-white/55">Intelligence You Can Trust</span></span></a>
-                <div class="hidden md:flex items-center gap-6 text-sm font-semibold text-white/80"><a href="#aira-opportunity-radar">Tender Radar</a><a href="#">Pathfinder</a><a href="#">ADA</a><a href="https://www.aira-ai.com" target="_blank" rel="noopener" class="inline-flex px-5 py-2.5 bg-[#40E0D0] text-[#07111f] font-bold rounded-full">Live website</a></div>
+                <div class="hidden md:flex items-center gap-6 text-sm font-semibold text-white/80"><a href="/#aira-opportunity-radar">Tender Radar</a><a href="#">Pathfinder</a><a href="#">ADA</a><a href="/pilot" class="inline-flex px-5 py-2.5 bg-[#40E0D0] text-[#07111f] font-bold rounded-full">Pilot starten</a></div>
             </div>
         </nav>
     </header>
