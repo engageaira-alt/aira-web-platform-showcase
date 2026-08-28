@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+<title id="title">AIRA Systems dark wallpaper</title><desc id="desc">High-resolution dark navy AIRA Systems branded wallpaper.</desc>
+<defs>
+  <radialGradient id="bg" cx="20%" cy="15%" r="110%"><stop offset="0" stop-color="#0b4771"/><stop offset="0.38" stop-color="#06172d"/><stop offset="1" stop-color="#020814"/></radialGradient>
+  <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0b2440" stop-opacity="0"/><stop offset=".5" stop-color="#1bd8e6" stop-opacity=".78"/><stop offset="1" stop-color="#0c3d63" stop-opacity="0"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="16" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="2560" height="1440" fill="url(#bg)"/>
+<g opacity=".42" fill="none" stroke="#159bd0" stroke-width="2"><path d="M0 325 485 890 0 705M485 890 1120 1350M1690 106 2255 290 2560 42M2255 290 2560 520M2255 290 1975 680M2330 820 2560 680"/><circle cx="485" cy="890" r="8" fill="#18d5e8"/><circle cx="2255" cy="290" r="8" fill="#18d5e8"/></g>
+<path d="M0 1325 C650 1235 1020 1405 1500 1308 S2200 1258 2560 1350" fill="none" stroke="url(#wave)" stroke-width="5" filter="url(#glow)"/>
+<g transform="translate(930 300)" text-anchor="middle">
+  <g transform="translate(350 0)" fill="none" stroke="#fff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 0 L-190 315 L0 420 L190 315 Z"/>
+    <circle cx="0" cy="0" r="34" fill="#fff" stroke="none"/><circle cx="-190" cy="315" r="34" fill="#fff" stroke="none"/><circle cx="190" cy="315" r="34" fill="#fff" stroke="none"/>
+    <circle cx="0" cy="122" r="36" fill="#fff" stroke="none"/><path d="M-80 205 Q-55 174 -18 174 H18 Q55 174 80 205 L65 350 L0 390 L-65 350 Z" fill="#fff" stroke="none"/>
+  </g>
+  <text x="350" y="620" fill="#fff" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="190" font-weight="900" letter-spacing="8">AIRA</text>
+  <text x="350" y="748" fill="#c8c8c8" font-family="Helvetica Neue, Arial, sans-serif" font-size="76" font-weight="500" letter-spacing="33">SYSTEMS</text>
+  <text x="350" y="845" fill="#fff" font-family="Segoe Script, Brush Script MT, cursive" font-size="62" font-style="italic">Intelligence You Can Trust.</text>
+</g>
+</svg>
