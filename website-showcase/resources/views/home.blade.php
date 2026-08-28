@@ -6,16 +6,18 @@
 @section('hero')
 <section class="relative isolate overflow-hidden bg-[#07111f] text-white">
     <div class="absolute inset-0 -z-20 bg-cover bg-center lg:bg-[center_right] hero-bg-zoom" style="background-image:url('{{ asset('images/aira-header.jpg') }}')"></div>
-    <div class="absolute inset-0 -z-10 bg-gradient-to-r from-[#07111f] via-[#07111f]/82 to-[#07111f]/20"></div>
-    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-[#07111f]/70 via-transparent to-black/10"></div>
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28 lg:py-32">
+    <div class="absolute inset-0 -z-10 bg-gradient-to-r from-[#07111f] via-[#07111f]/90 to-[#07111f]/35"></div>
+    <div class="absolute inset-0 -z-10 bg-gradient-to-t from-[#07111f]/80 via-transparent to-black/10"></div>
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 lg:py-28">
         <div class="max-w-3xl">
-            <div class="inline-flex items-center gap-2 rounded-full border border-cyan-200/20 bg-cyan-200/[0.07] px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-cyan-100">Governed AI · Human-in-control · Traceerbaar</div>
-            <h1 class="mt-7 text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.02] tracking-[-0.03em]">Intelligence you can trust.<span class="block mt-2 text-cyan-200">Voor beslissingen die ertoe doen.</span></h1>
-            <p class="mt-7 max-w-2xl text-lg md:text-xl leading-relaxed text-slate-200">AIRA combineert strategische analyse, gespecialiseerde AI-agents, semantische modellen, bewijs en governance in één gecontroleerde besluitvormingsarchitectuur.</p>
-            <p class="mt-4 max-w-2xl text-base md:text-lg leading-relaxed text-slate-400">Eén kern, meerdere toepassingen: Tender Radar voor kansen, Pathfinder voor complexe vraagstukken en ADA voor document- en bewijsanalyse.</p>
-            <div class="mt-9 flex flex-col sm:flex-row gap-3"><a href="/demo/" class="inline-flex items-center justify-center rounded-full bg-[#40E0D0] px-6 py-3.5 font-bold text-[#07111f] shadow-xl shadow-cyan-950/20 hover:bg-[#68eadc] transition">Bekijk AIRA live</a><a href="https://calendly.com/aira-kennismaking" target="_blank" rel="noopener" class="inline-flex items-center justify-center rounded-full border border-white/20 bg-white/[0.08] px-6 py-3.5 font-bold text-white hover:bg-white/[0.14] transition">Bespreek een pilot</a></div>
-            <div class="mt-9 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-400"><span>✓ Menselijke regie</span><span>✓ Evidence & provenance</span><span>✓ Reproduceerbare analyse</span><span>✓ Noord-Nederland → EU</span></div>
+            <div class="inline-flex items-center gap-2 rounded-full border border-cyan-200/20 bg-cyan-200/[0.07] px-4 py-2 text-xs font-bold uppercase tracking-[0.16em] text-cyan-100">AIRA Founding Pilot · Governed AI</div>
+            <h1 class="mt-7 text-4xl sm:text-5xl lg:text-6xl font-bold leading-[1.02] tracking-[-0.03em]">Test governed AI<span class="block mt-2 text-cyan-200">in uw eigen organisatie.</span></h1>
+            <p class="mt-7 max-w-2xl text-lg md:text-xl leading-relaxed text-slate-200">Start met één concrete workflow voor aanbestedingen, risicoanalyse of publieke besluitvorming. AIRA combineert actuele bronnen, menselijke regie en controleerbaar bewijs in een werkende pilot.</p>
+            <div class="mt-7 inline-flex flex-wrap items-center gap-x-3 gap-y-1 rounded-2xl border border-white/10 bg-white/[0.06] px-5 py-3 text-sm md:text-base text-slate-200">
+                <strong class="text-white">Vanaf €2.500 excl. btw</strong><span class="text-white/30">·</span><span>Doorlooptijd 4–6 weken</span>
+            </div>
+            <div class="mt-8 flex flex-col sm:flex-row gap-3"><a href="/pilot" class="inline-flex items-center justify-center rounded-full bg-[#40E0D0] px-6 py-3.5 font-bold text-[#07111f] shadow-xl shadow-cyan-950/20 hover:bg-[#68eadc] transition">Bespreek uw pilot</a><a href="#aira-opportunity-radar" class="inline-flex items-center justify-center rounded-full border border-white/20 bg-white/[0.08] px-6 py-3.5 font-bold text-white hover:bg-white/[0.14] transition">Bekijk de live radar</a></div>
+            <div class="mt-8 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-400"><span>✓ Eén concrete workflow</span><span>✓ Menselijke regie</span><span>✓ Evidence & provenance</span><span>✓ Helder implementatieadvies</span></div>
         </div>
     </div>
 </section>
@@ -23,6 +25,8 @@
 
 @section('content')
 <section class="border-y border-slate-200 bg-white"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6"><div class="grid grid-cols-2 md:grid-cols-4 gap-5 text-center"><div><div class="text-xs uppercase tracking-[0.14em] text-slate-500">Core</div><div class="mt-1 font-bold text-[#07111f]">Governed AI</div></div><div><div class="text-xs uppercase tracking-[0.14em] text-slate-500">Control</div><div class="mt-1 font-bold text-[#07111f]">Human-in-control</div></div><div><div class="text-xs uppercase tracking-[0.14em] text-slate-500">Assurance</div><div class="mt-1 font-bold text-[#07111f]">Evidence & provenance</div></div><div><div class="text-xs uppercase tracking-[0.14em] text-slate-500">Output</div><div class="mt-1 font-bold text-[#07111f]">Traceerbare besluiten</div></div></div></div></section>
+
+<section class="bg-white pt-12 md:pt-16"><div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"><div class="max-w-3xl"><div class="text-sm font-bold uppercase tracking-[0.14em] text-[#008B8B]">Bekijk wat er al werkt</div><h2 class="mt-3 text-3xl md:text-4xl font-bold tracking-[-0.02em] text-[#07111f]">Van pilotbelofte naar zichtbaar bewijs.</h2><p class="mt-4 text-lg leading-relaxed text-slate-600">Onderstaande Tender Radar analyseert actuele kansen uit meerdere bronnen en laat zien hoe AIRA informatie omzet in onderbouwde beslissingsondersteuning.</p></div></div></section>
 
 @include('components.opportunity-radar')
 
