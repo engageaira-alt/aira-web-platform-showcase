@@ -2,8 +2,16 @@
 
 Public branded wallpaper assets for AIRA Systems.
 
-- `aira-wallpaper-dark.jpg` — dark geometric/network variant
-- `aira-wallpaper-light.jpg` — light silver/white variant
-- `aira-wallpaper-gradient.jpg` — dark blue/purple flowing variant
+## High-resolution canonical set
 
-Optimized at 1280×720 for lightweight public repository use. Branding retains the AIRA Systems identity and the tagline “Intelligence You Can Trust.”
+Use these versions. They are **2560×1440 vector wallpapers**, so they remain sharp on high-resolution displays and can be exported to PNG/JPG at any required size.
+
+- `aira-wallpaper-dark.svg` — dark navy geometric/network variant
+- `aira-wallpaper-light.svg` — white/silver corporate variant
+- `aira-wallpaper-gradient.svg` — midnight blue / teal / purple flowing variant
+
+Branding retains the AIRA Systems identity and the tagline **“Intelligence You Can Trust.”**
+
+## Legacy files
+
+Any remaining small `.jpg` wallpaper files in this folder are deprecated lightweight placeholders from an earlier upload attempt and should not be used as master artwork. The SVG files above are the source-of-truth wallpaper assets.
